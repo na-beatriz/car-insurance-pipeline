@@ -1,0 +1,6 @@
+import pandas as pd
+#para tratamento de caracteres por meio de expressões regulares
+import re
+from scipy import stats
+import matplotlib.pyplot as plt
+import seaborn as sns
